@@ -9,3 +9,5 @@
 [x86-64汇编手册](https://docs.oracle.com/cd/E19253-01/817-5477/817-5477.pdf)
 
 [代码调用生成工具](https://blog.csdn.net/breaksoftware/article/details/79457352)
+
+[LaTeX 模版](https://www.sharelatex.com/templates/journals)
